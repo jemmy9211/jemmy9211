@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jemmy9211
 
-- 👀 I’m interested in software and science
+- 👀 I’m interested in software and science 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on fintech project 
 - 📫 You can get more imformation about me in my website
