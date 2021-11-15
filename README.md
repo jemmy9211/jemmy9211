@@ -1,6 +1,4 @@
-Hello , I am JemmyChen   
-I currently study at NCHU CSE   
-My school project is about using RL and DL to assist stock trading  
+Hello , I am JemmyChen    
 You can visit my personal website to get more information about me .   
 [jemmy9211 web!](http://jemmy9211.github.io)  
 
