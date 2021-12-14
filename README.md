@@ -1,3 +1,3 @@
 Hello  
-I an Chen Guan-Xuan  
+I am Chen Guan-Xuan  
 I currently study at  NCHU computer science  
