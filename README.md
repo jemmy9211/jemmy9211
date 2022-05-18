@@ -7,4 +7,5 @@ I currently study at  **NCHU computer science**
 **to do list(recently)**  
 + 學習爬蟲+視覺化工具
 + 刷題  
++ 學科加強
 
