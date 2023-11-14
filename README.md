@@ -6,4 +6,4 @@ As a tech enthusiast, I'm on a quest to explore innovative solutions and contrib
 
 I believe in the power of collaboration and continuous learning. My repositories reflect my academic and personal projects, showcasing a blend of creativity and technical proficiency. Feel free to explore, fork, and let's learn and grow together! 🌱
 
-Connect with me on LinkedIn [here](www.linkedin.com/in/guan-xuan-chen) for more insights into my academic and professional journey. Happy coding! 💻✨
+Connect with me on LinkedIn [here](https://www.linkedin.com/in/guan-xuan-chen/) for more insights into my academic and professional journey. Happy coding! 💻✨
