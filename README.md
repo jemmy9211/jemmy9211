@@ -1,2 +1,1 @@
-讚讚讚  
-棒棒棒
+Master student in the Department of Information Engineering, National Tsing Hua University
