@@ -1,1 +1,1 @@
-Master student in the Department of Information Engineering, National Tsing Hua University
+Master student in the Department of Computer Science, National Tsing Hua University
